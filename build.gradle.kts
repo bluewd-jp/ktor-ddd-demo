@@ -14,6 +14,7 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    implementation("de.huxhorn.sulky:de.huxhorn.sulky.ulid:8.3.0")
 }
 
 tasks.test {
