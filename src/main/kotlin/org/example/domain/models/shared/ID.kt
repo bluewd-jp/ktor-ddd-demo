@@ -1,4 +1,4 @@
-package org.example.domain.entities.shared
+package org.example.domain.models.shared
 
 import de.huxhorn.sulky.ulid.ULID
 import org.example.domain.exceptions.DomainException

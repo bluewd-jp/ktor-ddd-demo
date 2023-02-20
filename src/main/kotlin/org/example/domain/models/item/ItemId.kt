@@ -1,6 +1,6 @@
-package org.example.domain.entities.item
+package org.example.domain.models.item
 
-import org.example.domain.entities.shared.ID
+import org.example.domain.models.shared.ID
 
 class ItemId(value: String) : ID(value) {
     companion object Factory {

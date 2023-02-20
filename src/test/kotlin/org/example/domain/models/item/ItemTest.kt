@@ -1,7 +1,6 @@
-package org.example.domain.entities.item
+package org.example.domain.models.item
 
-import org.example.domain.entities.shared.Name
-
+import org.example.domain.models.shared.Name
 import kotlin.test.Test
 import kotlin.test.assertEquals
 
