@@ -6,7 +6,7 @@ import kotlin.test.assertEquals
 
 class ItemTest {
     @Test
-    fun create_NormalParams_ShouldCreate() {
+    fun create_RegularParams_ShouldCreate() {
         val name = Name.of("item name")
         val price = 100
 

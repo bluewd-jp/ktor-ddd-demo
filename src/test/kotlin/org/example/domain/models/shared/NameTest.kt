@@ -8,7 +8,7 @@ import kotlin.test.assertFailsWith
 
 class NameTest {
     @Test
-    fun of_NormalText_ShouldCreate() {
+    fun of_RegularText_ShouldCreate() {
         val text = "name text"
         val name = Name.of(text)
 
